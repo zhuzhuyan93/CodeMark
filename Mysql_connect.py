@@ -1,4 +1,5 @@
 import MySQLdb
+# pip install mysql
 import pandas as pd 
 
 class sql_operate:
