@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
+# 百度图片爬取
 import argparse
 import os
 import re
